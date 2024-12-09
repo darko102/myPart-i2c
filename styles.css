@@ -399,3 +399,19 @@ nav .fa-solid {
     left: 0%;
   }
 }
+
+.history-header {
+
+  text-align: center;
+  padding-top: 20px;
+
+}
+
+.history-p {
+  font-size: 13px;
+  color: black;
+  padding: 5px 15px;
+  margin: 10px 20px 20px;
+  left: 80%;
+  text-align: left;
+}
